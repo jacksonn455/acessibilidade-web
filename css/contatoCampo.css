@@ -27,7 +27,8 @@
 }
 
 .contatoCampo-checkbox {
-  /* forma de esconder */
+/*  display: none;*/
+/*  visibility: hidden*/
   left: -9999px;
   position: absolute;
   opacity: 0;
@@ -41,7 +42,7 @@
 }
 
 .contatoCampo label,
-.contatoCampo input,
+.contatoCampo input:not([type='checkbox']),
 .contatoCampo textarea {
   display: block;
   width: 100%;
