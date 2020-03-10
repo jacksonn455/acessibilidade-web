@@ -11,6 +11,11 @@ Acessibilidade Web
 - CSS interfere no leitor de tela? Listas e display: none
 - Um pouco sobre roles e arias
 - Formulário acessível
+- Melhorias iniciais
+- Modal acessível
+- Carousel acessível
+- Melhorando o formulário
+- Formulário acessível
 
 --------------------
  ![]()
